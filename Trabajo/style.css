@@ -1,0 +1,362 @@
+
+h1{
+
+    color:white ;
+    text-align: center;
+}
+#text1 p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    color: white ;
+}
+
+#ul1{
+    text-align: center;
+    color: white;
+    
+}
+h2{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+#Gato{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+}
+#Gato img{
+    height: 270px;
+    margin: 4rem auto;
+    width: 300px;
+    float: none;
+
+}
+#Gato a{
+    color:blue;
+    text-align: center;
+    float: right;
+    margin-right: 300px;
+    padding: 200px 0;
+}
+#Perro{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+}
+#Perro img{
+    height: 270px;
+    margin: 4rem auto;
+    width: 300px;
+    float: left;
+
+}
+#Perro a{
+    color:blue;
+    text-align: center;
+    float: right;
+    margin-right: 300px;
+    padding: 100px 0 ;
+}
+#Miguel{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+}
+#Miguel img{
+    width: 500px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+#Miguel a{
+    color:blue;
+    font-size: 18px;
+    font-weight: 200;
+    padding: 100px 0;
+    float: right;
+    margin-right: 100px;
+
+}
+#Tommy{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+}
+#Tommy img{
+    width: 500px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#Tommy a{
+    color:blue;
+    font-size: 18px;
+    font-weight: 300;
+    float: right;
+    padding: 100px 0;
+    margin-right: 100px;
+
+
+}
+#Lucifer{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+
+
+}
+#Lucifer img{
+    width: 500px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+
+}
+#Lucifer a{
+    color:blue;
+    font-size: 18px;
+    font-weight: 300;
+
+
+}
+#Cachulo{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+}
+#Cachulo img{
+    width: 500px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+#Cachulo a{
+    color:blue;
+    font-size: 18px;
+    font-weight: 200;
+    padding: 100px 0;
+    float: right;
+    margin-right: 100px;
+
+
+}
+#Nina{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+
+}
+#Nina img{
+    width: 500px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+#Nina a{
+    color:blue;
+    font-size: 18px;
+    font-weight: 300;
+    float: right;
+    padding: 100px 0;
+    margin-right: 100px;
+
+
+
+}
+#Flaca{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+}
+#Flaca img{
+    width: 500px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+
+}
+#Flaca a{
+    color:blue;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 100px 0;
+    float: right;
+    margin-right: 100px;
+
+
+}
+.Miguelinfo{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px;
+    margin-top: 100px;
+
+
+}
+.Miguelinfo p{
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+
+}
+
+.Miguelinfo img{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+.Tommyinfo{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px;
+    margin-top: 100px;
+
+
+}
+.Tommyinfo p{
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+
+}
+.Tommyinfo img{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+
+}
+.Luciferinfo{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+}
+.Luciferinfo p{
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+
+}
+.Luciferinfo img{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+
+#text2 p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+
+}
+#Inicio{
+    text-align: right;
+}
+#Inicio a{
+    color: blue;
+}
+#Inicio1{
+    text-align: right;
+
+
+}
+#Inicio1 a{
+    color: blue;
+}
+#cachuloinfo{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+}
+#cachuloinfo p{
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+}
+#cachuloinfo img{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+.Ninainfo{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+}
+.Ninainfo p{
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+
+}
+.Ninainfo img{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.Flacainfo{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+}
+.Flacainfo p{
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+
+}
+.Flacainfo img{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#INICIO3{
+    text-align: right;
+
+}
+#INICIO3 a{
+    color: blue;
+}
+body{
+    background-image: url(https://images3.alphacoders.com/595/thumb-1920-595064.jpg);
+}
+.centrar{
+    width: 400px;
+    margin: 0px auto;
+    padding: 8px
+}
+.centrar{
+    color: white;
+}
